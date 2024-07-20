@@ -2,7 +2,7 @@
 
 In this porject most of Array Methods and Intl & serialization API are used to build the functonality.
 <br> <br>
-Project link :- https://sahilsuthar0926.github.io/Bankist-Array/
+Project link :- https://sahils-26.github.io/Bankist-Array/
 <br> <br>
 There are 2 user's :-
 
