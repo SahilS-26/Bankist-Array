@@ -1,6 +1,6 @@
 # Bankits App - JavaScript Array Methods
 
-In this porject most of array methods are used to build the functonality.
+In this porject most of Array Methods and Intl & serialization API are used to build the functonality.
 <br> <br>
 Project link :- https://sahilsuthar0926.github.io/Bankist-Array/
 <br> <br>
